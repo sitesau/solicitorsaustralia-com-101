@@ -1,0 +1,19 @@
+{
+  "wheel_id": 306,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-com-101",
+  "project": "family-lawyers-australia-comparison-07ac8f33bbebe3c7fab8921fab0",
+  "parent_t1_ref": "solicitorsaustralia-com-150",
+  "node_role": "feeder",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "family lawyers australia comparison",
+  "intended_url": "https://aumedia.neocities.org/family-lawyers-australia-comparison-07ac8f33bbebe3c7fab8921fab0/",
+  "writeback_nonce": "9c9b434074957dcb",
+  "links": [
+    {
+      "target_url": "http://family-lawyers-australia-d911fccbfa18b9341d2a64afc8d8f0b1741d52.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "family lawyers australia",
+      "rel": "follow"
+    }
+  ]
+}
